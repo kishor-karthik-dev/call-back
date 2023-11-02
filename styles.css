@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+div{
+
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(43,139,193,1) 0%, rgba(64,187,52,1) 0%, rgba(231,246,230,1) 41%, rgba(245,245,245,1) 54%, rgba(244,201,158,1) 63%, rgba(253,149,45,1) 71%);
+}
+#countdown{
+    display: flex;
+    justify-content: center;
+    padding:10%;
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 500%;
+}
